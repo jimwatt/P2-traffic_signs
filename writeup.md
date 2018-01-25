@@ -138,10 +138,12 @@ I started withe the LeCun network as a baseline which achieved an accuracy perfo
 * added regularization via dropout,
 * added more data through image generation.
 
+If I were to do this project again, I would try to use image augmentation to provide a more uniform distribution of labelled sign data.
+
 My final model results were:
 
-* training set accuracy of ?
-* validation set accuracy of 0.965 
+* training set accuracy of 0.991
+* validation set accuracy of 0.963
 * test set accuracy of 0.952
  
 
